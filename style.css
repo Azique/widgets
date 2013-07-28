@@ -1,0 +1,9 @@
+body {
+	background-image: url(4.jpg);
+}
+.demo3{
+	background-image: url(widgets_weather_small.png);	
+	width: 921px;
+	height: 542px;
+	float: right;
+}
